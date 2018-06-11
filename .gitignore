@@ -1,3 +1,4 @@
 .idea/
 JerryMusic.iml
 src/main/webapp/WEB-INF/classes/
+target/
