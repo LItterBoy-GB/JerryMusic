@@ -1,0 +1,135 @@
+.wp {
+	WIDTH: 98%
+}
+#hd .wp {
+	MIN-WIDTH: 960px
+}
+#wp {
+	MIN-WIDTH: 960px
+}
+.ct2 {
+	MARGIN-RIGHT: 235px
+}
+.ct2 .sd {
+	MARGIN-RIGHT: -235px
+}
+.ie7 .ct2 .sd {
+	MARGIN-LEFT: 15px
+}
+.ie6 .ct2 .sd {
+	POSITION: relative; PADDING-LEFT: 15px
+}
+.ct2 .mn {
+	WIDTH: 100%
+}
+.ct2 #chart {
+	MARGIN-RIGHT: -235px
+}
+.ct2 #an {
+	MARGIN-RIGHT: -235px
+}
+.ie6 .ct2 #chart {
+	POSITION: relative
+}
+.ie6 .ct2 #an {
+	POSITION: relative
+}
+.ct2_a {
+	PADDING-LEFT: 150px; BACKGROUND: url(../../static/image/besgold//cbg.gif) #d8d5d0 repeat-y
+}
+.ct2_a .appl {
+	MARGIN-LEFT: -150px
+}
+.ie6 .ct2_a .appl {
+	POSITION: relative; DISPLAY: inline
+}
+.ct2_a .mn {
+	PADDING-BOTTOM: 20px !important; PADDING-LEFT: 0px !important; WIDTH: 97% !important; PADDING-RIGHT: 0px !important; MARGIN-RIGHT: 2% !important; PADDING-TOP: 20px !important
+}
+#nv_userapp .ct2_a .mn {
+	WIDTH: 99%
+}
+.ct2_a_r .mn {
+	WIDTH: 99%
+}
+.ct3_a {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 160px; PADDING-RIGHT: 240px; BACKGROUND: url(../../static/image/besgold//cbg.gif) #d8d5d0 repeat-y; PADDING-TOP: 0px
+}
+.ct3_a .appl {
+	MARGIN-LEFT: -160px
+}
+.ie6 .ct3_a .appl {
+	DISPLAY: inline
+}
+.ie6 .ct3_a .sd {
+	DISPLAY: inline
+}
+.ct3_a .sd {
+	MARGIN-RIGHT: -240px
+}
+.ct3_a .mn {
+	MARGIN: 0px; WIDTH: 100%
+}
+#nv {
+	BORDER-LEFT: #b0a798 1px solid; BORDER-RIGHT: #b0a798 1px solid
+}
+#mu {
+	BORDER-LEFT: #b0a798 1px solid; BORDER-RIGHT: #b0a798 1px solid
+}
+#nv {
+	BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 0px -33px
+}
+#mu UL {
+	BACKGROUND-IMAGE: none; BORDER-BOTTOM: #b0a798 1px solid; BACKGROUND-COLOR: #cbc5bc
+}
+.pg_post .ct2_a {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 0px
+}
+.pg_post .ct2_a .appl {
+	BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 0px
+}
+.pg_modcp .ct2_a {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.pg_announcement .ct2_a {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.pg_modcp .ct2_a .mn {
+	MARGIN-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pg_announcement .ct2_a .mn {
+	MARGIN-RIGHT: 0px; PADDING-TOP: 0px
+}
+.tdats .tdat {
+	WIDTH: 20%
+}
+.tdats .tfxf {
+	WIDTH: 79.5%
+}
+.tdats .tfx {
+	WIDTH: 39.5%
+}
+.tdats .tb {
+	WIDTH: 39.5%
+}
+.tscr {
+	WIDTH: 39.5%
+}
+.tscr .tdat {
+	WIDTH: 100%
+}
+.tscr .tdat TH {
+	WIDTH: 100%
+}
+.tscr .tdat TD {
+	WIDTH: 100%
+}
+.widthauto #toptb #diy-tg_menu {
+	MARGIN: -7px 0px 0px -1px
+}
+.widthauto .switchwidth {
+	BACKGROUND-POSITION: 100% -18px
+}
+.widthauto .switchwidth:hover {
+	BACKGROUND: url(../../static/image/common//switch_width.png) no-repeat 100% -54px
+}

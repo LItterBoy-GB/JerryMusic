@@ -1,0 +1,294 @@
+#pt .y {
+	WIDTH: 550px; HEIGHT: 29px; OVERFLOW: hidden
+}
+#chart {
+	MARGIN-BOTTOM: 5px
+}
+.chart {
+	PADDING-LEFT: 22px; BACKGROUND: url(../../static/image/common//chart.png) no-repeat 0px 50%; COLOR: #a27c4c
+}
+.chart EM {
+	COLOR: #68615f
+}
+#an {
+	MARGIN-BOTTOM: 5px
+}
+#an DT {
+	DISPLAY: none
+}
+#an LI {
+	TEXT-ALIGN: right; WIDTH: 526px; FLOAT: right; CLEAR: both
+}
+#an LI SPAN {
+	WIDTH: 450px; TEXT-OVERFLOW: ellipsis; WHITE-SPACE: nowrap; FLOAT: left; OVERFLOW: hidden
+}
+#an LI EM {
+	WIDTH: 75px; FLOAT: left; COLOR: #a27c4c
+}
+#anc {
+	HEIGHT: 29px; OVERFLOW: hidden
+}
+#an LI {
+	HEIGHT: 29px; OVERFLOW: hidden
+}
+#anc I {
+	FONT-STYLE: italic
+}
+.oll LI {
+	LINE-HEIGHT: 24px; WIDTH: 19.9%; WHITE-SPACE: nowrap; FLOAT: left; HEIGHT: 24px; OVERFLOW: hidden
+}
+.oll IMG {
+	VERTICAL-ALIGN: middle
+}
+.heat {
+	WIDTH: 370px
+}
+.heatl {
+	PADDING-LEFT: 15px; BACKGROUND: url(../../static/image/common//vline.png) repeat-y 0px 0px; MARGIN-LEFT: 385px
+}
+#category_grid {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #b0a798 1px solid; PADDING-TOP: 0px
+}
+#category_grid TABLE {
+	WIDTH: 100%; TABLE-LAYOUT: fixed
+}
+#category_grid TD {
+	WIDTH: 25%
+}
+.category_l1 {
+	LINE-HEIGHT: 25px; BACKGROUND: #fff; OVERFLOW: hidden
+}
+.category_l2 {
+	LINE-HEIGHT: 25px; BACKGROUND: #fff; OVERFLOW: hidden
+}
+.category_l3 {
+	LINE-HEIGHT: 25px; BACKGROUND: #fff; OVERFLOW: hidden
+}
+.category_l4 {
+	LINE-HEIGHT: 25px; BACKGROUND: #fff; OVERFLOW: hidden
+}
+.category_l1 {
+	LINE-HEIGHT: normal
+}
+.category_l1 {
+	BACKGROUND: url(../../static/image/common//category_lbg.png) no-repeat right center
+}
+.category_l2 {
+	BACKGROUND: url(../../static/image/common//category_lbg.png) no-repeat right center
+}
+.category_l3 {
+	BACKGROUND: url(../../static/image/common//category_lbg.png) no-repeat right center
+}
+.ie6 .category_l4 {
+	MARGIN-RIGHT: -3px
+}
+.slidebox_grid {
+	BORDER-BOTTOM: #bdb6aa 1px solid; POSITION: relative; BORDER-LEFT: #bdb6aa 1px solid; MARGIN: 10px; BORDER-TOP: #bdb6aa 1px solid; BORDER-RIGHT: #bdb6aa 1px solid
+}
+#category_grid H4 {
+	POSITION: relative; LINE-HEIGHT: 30px; TEXT-INDENT: 10px; WIDTH: 100%; BACKGROUND: url(../../static/image/common//tb.png) repeat-x; HEIGHT: 30px; FONT-SIZE: 12px; CURSOR: pointer
+}
+.category_newlist {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.category_newlist LI {
+	LINE-HEIGHT: 21px; PADDING-LEFT: 10px; BACKGROUND: url(../../static/image/common//dot.gif) no-repeat left center; HEIGHT: 21px; OVERFLOW: hidden
+}
+#category_grid H4 SPAN {
+	POSITION: absolute; WIDTH: 1px; DISPLAY: inline-block; BACKGROUND: #cdcdcd; HEIGHT: 30px; TOP: 0px; LEFT: 0px
+}
+#category_grid H4 SPAN.tit_newimg {
+	BACKGROUND: #fff
+}
+#category_grid .newimgbox:hover H4 SPAN {
+	WIDTH: 6px; BACKGROUND: url(../../static/image/common//grid.png) no-repeat 0px 0px; OVERFLOW: hidden; transition: width 0.2s ease 0s
+}
+#category_grid .subjectbox:hover H4 SPAN {
+	WIDTH: 6px; BACKGROUND: url(../../static/image/common//grid.png) no-repeat 0px 0px; OVERFLOW: hidden; transition: width 0.2s ease 0s
+}
+#category_grid .replaybox:hover H4 SPAN {
+	WIDTH: 6px; BACKGROUND: url(../../static/image/common//grid.png) no-repeat 0px 0px; OVERFLOW: hidden; transition: width 0.2s ease 0s
+}
+#category_grid .hottiebox:hover H4 SPAN {
+	WIDTH: 6px; BACKGROUND: url(../../static/image/common//grid.png) no-repeat 0px 0px; OVERFLOW: hidden; transition: width 0.2s ease 0s
+}
+#category_grid .goodtiebox:hover H4 SPAN {
+	WIDTH: 6px; BACKGROUND: url(../../static/image/common//grid.png) no-repeat 0px 0px; OVERFLOW: hidden; transition: width 0.2s ease 0s
+}
+#category_grid .newimgbox:hover H4 SPAN.tit_newimg {
+	BACKGROUND-POSITION: 0px -30px
+}
+#category_grid .subjectbox:hover H4 SPAN.tit_subject {
+	BACKGROUND-POSITION: 0px 0px
+}
+#category_grid .repalybox:hover H4 SPAN.tit_replay {
+	BACKGROUND-POSITION: 0px -30px
+}
+#category_grid .hottiebox:hover H4 SPAN.tit_hottie {
+	BACKGROUND-POSITION: 0px -60px
+}
+#category_grid .goodtiebox:hover H4 SPAN.tit_goodtie {
+	BACKGROUND-POSITION: 0px -90px
+}
+.fl {
+	
+}
+.fl_tb {
+	WIDTH: 100%
+}
+.fl_tb TD {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.fl_icn {
+	WIDTH: 31px; PADDING-RIGHT: 10px !important
+}
+.fl_by {
+	WIDTH: 220px
+}
+.fl_by DIV {
+	PADDING-LEFT: 8px; WIDTH: 210px; TEXT-OVERFLOW: ellipsis; WORD-WRAP: normal; WHITE-SPACE: nowrap; MARGIN-LEFT: 10px; OVERFLOW: hidden; WORD-BREAK: keep-all
+}
+.fl_by DIV .xi2 {
+	ZOOM: 1
+}
+.fl_by CITE {
+	DISPLAY: block
+}
+.fl_i {
+	TEXT-ALIGN: right; WIDTH: 150px
+}
+.fl_i EM {
+	WIDTH: 5em; DISPLAY: block
+}
+.fl .i_z {
+	PADDING-RIGHT: 8px; MARGIN-RIGHT: 8px; BORDER-RIGHT: #c4beb3 1px solid
+}
+.fl_icn_g {
+	WIDTH: 31px; FLOAT: left
+}
+.fl_g {
+	VERTICAL-ALIGN: top
+}
+.fl_g DL {
+	LINE-HEIGHT: 20px; PADDING-LEFT: 10px; MARGIN-LEFT: 33px
+}
+.fl_g DT {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.fl_g DT B {
+	FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+.fl_g DT EM {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 15px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; HEIGHT: 15px; COLOR: #fff; MARGIN-LEFT: 1px; FONT-SIZE: 11px !important; FONT-WEIGHT: normal; PADDING-TOP: 0px
+}
+.fl_g DT CITE {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 15px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; HEIGHT: 15px; COLOR: #fff; MARGIN-LEFT: 1px; FONT-SIZE: 11px !important; FONT-WEIGHT: normal; PADDING-TOP: 0px
+}
+.fl_g DT STRONG {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 15px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; HEIGHT: 15px; COLOR: #fff; MARGIN-LEFT: 1px; FONT-SIZE: 11px !important; FONT-WEIGHT: normal; PADDING-TOP: 0px
+}
+.fl_g DT EM:hover {
+	BACKGROUND: #8d736c
+}
+.fl_g DT CITE:hover {
+	BACKGROUND: #8d736c
+}
+.fl_g DT STRONG:hover {
+	BACKGROUND: #8d736c
+}
+.fl_g DT EM {
+	BACKGROUND: #ff9b06
+}
+.fl_g DT CITE {
+	BACKGROUND: #9d9d9d
+}
+.fl_g DT STRONG {
+	BACKGROUND: #b0a395
+}
+.fl_row TD {
+	BORDER-TOP: #b0a798 1px dashed
+}
+.fb1 {
+	PADDING-LEFT: 15px; BACKGROUND: url(../../static/image/besgold//fb1.gif) no-repeat 0px center
+}
+.fb2 {
+	PADDING-LEFT: 15px; BACKGROUND: url(../../static/image/besgold//fb2.gif) no-repeat 0px center
+}
+.flt {
+	
+}
+.flt .flc {
+	WIDTH: 294px
+}
+.gcop {
+	CLEAR: left; MARGIN-RIGHT: 15px
+}
+.ghfl DT {
+	FONT-SIZE: 14px; FONT-WEIGHT: 700
+}
+.flt DT {
+	FONT-SIZE: 14px; FONT-WEIGHT: 700
+}
+.ghfl DT SPAN {
+	COLOR: #a27c4c; FONT-SIZE: 12px; FONT-WEIGHT: 200
+}
+.flt DT SPAN {
+	COLOR: #a27c4c; FONT-SIZE: 12px; FONT-WEIGHT: 200
+}
+.flt DD SPAN {
+	COLOR: #a27c4c; FONT-SIZE: 12px; FONT-WEIGHT: 200
+}
+.ghfl DD {
+	LINE-HEIGHT: 1.8em
+}
+.flt DD {
+	LINE-HEIGHT: 1.8em
+}
+#fjump_menu {
+	OVERFLOW-X: hidden; MAX-HEIGHT: 600px
+}
+#fjump_menu DL {
+	WIDTH: 200px
+}
+#fjump_menu DT {
+	FONT-WEIGHT: 700
+}
+#fjump_menu DD {
+	TEXT-INDENT: 1em
+}
+#fjump_menu LI.a A {
+	BACKGROUND-COLOR: #cfcbc4
+}
+.syn_qq {
+	LINE-HEIGHT: 64px; MARGIN-TOP: 3px; WIDTH: 19px; DISPLAY: inline-block; BACKGROUND: url(../../static/image/common//connect_post_syn.png) no-repeat 0px 0px; HEIGHT: 19px; VERTICAL-ALIGN: top; OVERFLOW: hidden; CURSOR: pointer
+}
+.syn_tqq {
+	LINE-HEIGHT: 64px; MARGIN-TOP: 3px; WIDTH: 19px; DISPLAY: inline-block; BACKGROUND: url(../../static/image/common//connect_post_syn.png) no-repeat 0px 0px; HEIGHT: 19px; VERTICAL-ALIGN: top; OVERFLOW: hidden; CURSOR: pointer
+}
+.syn_qq_check {
+	LINE-HEIGHT: 64px; MARGIN-TOP: 3px; WIDTH: 19px; DISPLAY: inline-block; BACKGROUND: url(../../static/image/common//connect_post_syn.png) no-repeat 0px 0px; HEIGHT: 19px; VERTICAL-ALIGN: top; OVERFLOW: hidden; CURSOR: pointer
+}
+.syn_tqq_check {
+	LINE-HEIGHT: 64px; MARGIN-TOP: 3px; WIDTH: 19px; DISPLAY: inline-block; BACKGROUND: url(../../static/image/common//connect_post_syn.png) no-repeat 0px 0px; HEIGHT: 19px; VERTICAL-ALIGN: top; OVERFLOW: hidden; CURSOR: pointer
+}
+.ie6 .syn_qq {
+	DISPLAY: inline
+}
+.ie6 .syn_tqq {
+	DISPLAY: inline
+}
+.ie6 .syn_qq_check {
+	DISPLAY: inline
+}
+.ie6 .syn_tqq_check {
+	DISPLAY: inline
+}
+.syn_qq_check {
+	BACKGROUND-POSITION: -22px 0px
+}
+.syn_tqq {
+	BACKGROUND-POSITION: 0px -22px; MARGIN-LEFT: 5px
+}
+.syn_tqq_check {
+	BACKGROUND-POSITION: -22px -22px; MARGIN-LEFT: 5px
+}
